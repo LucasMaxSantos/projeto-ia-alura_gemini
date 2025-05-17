@@ -275,7 +275,7 @@ def agente_apresentador_receitas(receitas_encontradas: list):
     display(Markdown(resposta_formatada))
 
 # --- Exemplo de Fluxo de Execução (Orquestrador) ---
-print("🚀 Iniciando o Chatbot de Receitas com 4 Agentes 🚀")
+print("🚀 Iniciando o Chatbot de Receitas 🚀")
 
 ingredientes_do_usuario = input("Por favor, digite os ingredientes que você tem em mãos (ex: 2 bananas, farinha de aveia, gotas de chocolate): ")
 
