@@ -1,6 +1,6 @@
 # 🍜 Receita Inteligente com Gemini: Seu Chef Pessoal com IA
 
-![Banner do Projeto](http://i.gifer.com/9YG1.mp4)
+![Banner do Projeto](https://img.odcdn.com.br/wp-content/uploads/2024/08/inteligencia-artificial-alimentos-1920x1080.png)
 
 ## 🚀 Visão Geral do Projeto
 
